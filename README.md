@@ -1,6 +1,6 @@
 # sms-spam-detector
 # ABSTRACT 
-Spam smss are a pervasive nuisance and a serious security concern for users worldwide. These 
+Spam sms are a pervasive nuisance and a serious security concern for users worldwide. These 
 unwanted messages not only clutter inboxes but also pose risks such as phishing attacks, malware 
 distribution, and identity theft. Traditional spam detection methods, often reliant on rule-based filters 
 or simple keyword matching, struggle to keep pace with the ever-evolving tactics employed by 
@@ -14,7 +14,7 @@ comprehensively analyze sms content, extracting nuanced features indicative of s
 # OBJECTIVE 
  
 The primary objective of this project is to develop an AI-based spam detection system with the 
-capability to accurately identify and filter out spam smss in real-time. To achieve this goal, the 
+capability to accurately identify and filter out spam sms in real-time. To achieve this goal, the 
 project will leverage machine learning algorithms, with a particular emphasis on the Support Vector 
 Machine (SVM) technique, known for its effectiveness in classification tasks. By harnessing the power 
 of machine learning, the system aims to enhance detection efficacy and overcome the limitations of 
@@ -31,7 +31,7 @@ any anomalies that could affect model performance.
 • Before diving into model building, conducting exploratory data analysis (EDA) provides crucial 
 insights into the characteristics of the sms dataset. 
 • EDA involves visualizing and summarizing key features such as sms length, word frequency 
-distributions, and the proportion of spam versus non-spam smss. 
+distributions, and the proportion of spam versus non-spam sms. 
 • This exploration helps in understanding the underlying patterns and relationships within the 
 data, guiding feature selection and preprocessing strategies. 
 ## Data Preprocessing: 
